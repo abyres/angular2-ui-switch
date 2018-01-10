@@ -10,6 +10,7 @@
     "outDir": "dist",
     "rootDir": "src",
     "declaration": true,
+    "skipLibCheck": true,
     "lib": [
       "es6",
       "dom"
